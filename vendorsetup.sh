@@ -156,7 +156,7 @@ if [ "$1" = "$FDEVICE" -o "$FOX_BUILD_DEVICE" = "$FDEVICE" ]; then
 	export OF_ENABLE_ALL_PARTITION_TOOLS=1
 
 	# variant
-	export OF_MAINTAINER="rama982"
+	export OF_MAINTAINER="brianznz"
 	#export FOX_VARIANT="R11.2-A12_ramabondanp"
 
 	# no flashlight
